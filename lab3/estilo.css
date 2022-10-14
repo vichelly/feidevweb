@@ -1,0 +1,23 @@
+body{background-color: skyblue;}
+
+.icon{width:100px; height:100px;}
+
+.div1{border-style:solid; border-color:blue;}
+
+h1{color:tomato;}
+
+#p1{font-family:"Comic Sans MS"; font-size: 15pt; color:red;}
+#p2{font-family:Arial Black; font-size: 12pt; color:green;}
+#p3{font-family:'Lucida Sans'; font-size: 17pt; color:white;}
+
+.li{color:red;}
+
+table{width: 500px; height: 300px ; border-style:dashed; border-color: red;}
+
+.ye{
+    background-color: yellow;
+    width: 850px; height: 150px;
+}
+a{
+    color: darkred;
+}

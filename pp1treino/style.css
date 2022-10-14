@@ -1,0 +1,73 @@
+body{background-color: lightgrey;}
+
+
+.d1{ color: green; background-color: beige; border: solid 2px blue;}
+
+.flex-container{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    background-color: skyblue;
+}
+.flex-container div{
+     padding: 20px; margin-left: 25px; margin-right: 25px; 
+}
+
+a{
+    text-decoration: none; color:darkred ;
+}
+
+.p1{
+    font-family: 'SansSerif'; font-size: 20pt; color: blueviolet;
+}
+
+.pri{font-size: 35pt;}
+
+.livros{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;  
+}
+.livros div{
+    margin-left: 50px; margin-right: 50px;
+}
+
+table{
+    border: 3px red dashed;
+    width: 400px;
+    height: 150px;
+}
+
+.ver{
+    color: red;
+    border: solid 1px red;
+}
+td{
+    border: 1px solid black;
+}
+
+.ye{
+    display:flex ;
+    flex-direction: column;
+}
+
+.final{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Comic Sans MS";
+    font-size: 15pt;
+    background-color: burlywood;
+}
+.ima{
+    height: 150px; 
+}
+
+.ama{
+    background-color: yellow;
+    height: 200px;
+    width: 40%;
+    margin-left: 55%;
+}
+.ba{
+    text-align: left;
+}

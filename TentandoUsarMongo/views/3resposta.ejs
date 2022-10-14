@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastramento</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<div>
+    <form action="/cadastro" method="post">
+            <input type="submit" value="Cadastrar">
+    </form>
+    <br>
+    <% for (let i=0; i < lista.length; i++ ){%>
+        <br>
+    <div class="pp">
+        <p>Nome: <%=lista[i].nome%> </p>
+        <p>Nome: <%=lista[i].mail%> </p>
+        <p>Nome: <%=lista[i].telefone%> </p>        
+    </div>
+    <%}%>
+    <br>
+    <div class="pp">
+        <p><%=name%></p>
+        <p><%=email%></p>
+        <p><%=tel%></p>
+    </div>
+    <br>
+</div>
+</body>
+</html>

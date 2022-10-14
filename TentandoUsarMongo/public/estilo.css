@@ -1,0 +1,18 @@
+body{
+    background-color:antiquewhite;
+    font-size: 18pt;
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pp{
+    border: solid black 1px;
+    background-color: aliceblue;
+    font-size: 20pt;
+    text-align: left;
+    border-radius: 10px;
+}

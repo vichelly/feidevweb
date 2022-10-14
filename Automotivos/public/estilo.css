@@ -1,0 +1,19 @@
+body{
+    background-color:aliceblue;
+    font-size: 18pt;
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.foto{
+    height: 500px;
+    width: 800px;
+    align-content: center;
+    margin: 40px;
+    margin-left: 550px;
+}

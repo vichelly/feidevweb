@@ -1,0 +1,14 @@
+{
+  "name": "codeaula11",
+  "version": "1.0.0",
+  "description": "Aula11 get, post e EJS",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aula11",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}

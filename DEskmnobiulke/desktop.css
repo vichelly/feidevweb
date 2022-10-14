@@ -1,0 +1,37 @@
+.main {
+margin: auto;
+}
+
+.A {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    background-color: limegreen;
+    justify-content: space-around;
+}
+
+.B {
+    margin-left: 477px;
+    margin-top: 3px;
+    height: 60px;
+    width: 50%;
+    display: flex;
+    background-color: limegreen;
+    justify-content: center;
+}
+
+.C {
+    height: 300px;
+    width: 10%;
+    display: flex;
+    background-color: limegreen;
+    justify-content: left;
+}
+
+.E {
+    height: 300px;
+    width: 10%;
+    display: flex;
+    background-color: limegreen;
+    justify-content: right;
+}

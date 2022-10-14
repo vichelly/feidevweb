@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://www.curtainsjs.com/images/intro-background.jpg');
+}
+
+*{
+    font-family: 'century gothic';
+}
+
+h1,h2{
+    background-color: violet;
+}
+
+table{
+    background-color: azure;
+    font-size: large;
+    font-weight: 700;
+}
+
+p{
+    font-size: 22px;
+    background-color: snow;
+    font-weight: 550;
+}
+
+h3{
+    font-size: 33px;
+}
+
+ol{
+    font-size: larger;
+    
+}
+
+a{
+    font-size: large;
+    font-weight: 550;
+    color: rgb(83, 24, 76);
+}
